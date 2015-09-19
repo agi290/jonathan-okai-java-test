@@ -11,7 +11,7 @@ private String model;
 private int year;
 private Date entryDate;
 
-public Cars(long id, String make, String model, int year, Date enrtyDate){
+public Cars(long id){
 this.id =id;
 
 
